@@ -1,2 +1,2 @@
 # sirius.github.io
-Blog Repo
+Wenchao's personal blog, using github pages and HEXO
